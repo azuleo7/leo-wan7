@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @leo-wan7
-- 👀 I’m interested in Automatic driving Camera calibration
+- 👀 I’m interested in Automatic driving, Camera calibration
 - 🌱 I’m currently learning Automatic driving
 - 📫 How to reach me wly2017aaaa@163.com
 
